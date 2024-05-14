@@ -1,0 +1,7 @@
+D:\IFS\Lista2ex1\Lista2ex6\bin\Debug\Lista2ex6.exe.config
+D:\IFS\Lista2ex1\Lista2ex6\bin\Debug\Lista2ex6.exe
+D:\IFS\Lista2ex1\Lista2ex6\bin\Debug\Lista2ex6.pdb
+D:\IFS\Lista2ex1\Lista2ex6\obj\Debug\Lista2ex6.csproj.AssemblyReference.cache
+D:\IFS\Lista2ex1\Lista2ex6\obj\Debug\Lista2ex6.csproj.CoreCompileInputs.cache
+D:\IFS\Lista2ex1\Lista2ex6\obj\Debug\Lista2ex6.exe
+D:\IFS\Lista2ex1\Lista2ex6\obj\Debug\Lista2ex6.pdb

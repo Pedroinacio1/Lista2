@@ -1,0 +1,8 @@
+E:\IFS\Lista2ex1\Lista2ex3\bin\Debug\Lista2ex3.exe.config
+E:\IFS\Lista2ex1\Lista2ex3\bin\Debug\Lista2ex3.exe
+E:\IFS\Lista2ex1\Lista2ex3\bin\Debug\Lista2ex3.pdb
+E:\IFS\Lista2ex1\Lista2ex3\obj\Debug\Lista2ex3.csproj.AssemblyReference.cache
+E:\IFS\Lista2ex1\Lista2ex3\obj\Debug\Lista2ex3.csproj.SuggestedBindingRedirects.cache
+E:\IFS\Lista2ex1\Lista2ex3\obj\Debug\Lista2ex3.csproj.CoreCompileInputs.cache
+E:\IFS\Lista2ex1\Lista2ex3\obj\Debug\Lista2ex3.exe
+E:\IFS\Lista2ex1\Lista2ex3\obj\Debug\Lista2ex3.pdb
